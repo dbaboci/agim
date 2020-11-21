@@ -23,7 +23,7 @@
             },
             {
                 "label": "Portfolio",
-                "url": "lorem-ipsum",
+                "url": "portfolio",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
