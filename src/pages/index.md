@@ -8,10 +8,7 @@ sections:
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
-    actions:
-      - label: Contact me
-        url: /contact
-        style: link
+    actions: []
   - section_id: services
     type: section_grid
     title: What We Do
