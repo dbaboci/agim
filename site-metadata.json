@@ -33,14 +33,7 @@
     },
     "footer": {
         "content": "&copy; Agim Baboci. All rights reserved.",
-        "links": [
-            {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "links": [],
         "has_social": true,
         "social_links": [
             {
