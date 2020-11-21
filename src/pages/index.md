@@ -12,7 +12,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Portfolio
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     col_number: two
     is_numbered: false
     grid_items:
