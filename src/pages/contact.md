@@ -26,7 +26,6 @@ sections:
         label: Subject
         default_value: Your Subject
         options:
-          - Error on the site
           - Sponsorship
           - Other
       - input_type: textarea
