@@ -21,17 +21,5 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
 template: advanced
 ---
