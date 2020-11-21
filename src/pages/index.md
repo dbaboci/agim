@@ -17,9 +17,6 @@ sections:
     is_numbered: false
     grid_items:
       - title: Drawing
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: ''
 template: advanced
 ---
