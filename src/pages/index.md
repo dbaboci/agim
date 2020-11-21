@@ -18,7 +18,7 @@ sections:
     grid_items:
       - title: Drawing
         content: ''
-      - title: lorem-ipsum
+      - title: Sculpture
         content: >-
           ## Lorem ipsum
 
