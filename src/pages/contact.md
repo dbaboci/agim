@@ -26,7 +26,6 @@ sections:
         label: Subject
         default_value: Your Subject
         options:
-          - Sponsorship
           - Other
       - input_type: textarea
         name: message
