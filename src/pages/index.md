@@ -11,7 +11,7 @@ sections:
     actions: []
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Portfolio
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
