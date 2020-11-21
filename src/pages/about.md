@@ -1,7 +1,6 @@
 ---
 title: About Me
 subtitle: This is a short page about me
-image: images/about.jpg
 template: page
 ---
 My name is Agim Baboci and I am an architect, artist and creative.
