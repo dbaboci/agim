@@ -12,6 +12,14 @@
                 "style": "link"
             },
             {
+                "label": "Portfolio",
+                "url": "portfolio",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -20,14 +28,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Portfolio",
-                "url": "portfolio",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "type": "action"
             }
         ]
     },
