@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hi, I''m Agim Baboci'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      This is my modest home on the web. You can find some of my favorite works
+      in the domain of sculpture & drawing.
     actions: []
   - section_id: services
     type: section_grid
