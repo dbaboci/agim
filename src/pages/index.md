@@ -19,15 +19,7 @@ sections:
       - title: Drawing
         content: ''
       - title: Sculpture
-        content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: ''
         actions: []
         type: grid_item
 template: advanced
