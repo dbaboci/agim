@@ -1,6 +1,6 @@
 ---
 title: sculpture
-subtitle: lorem-ipsum
+subtitle: a series of sculptures
 excerpt: lorem-ipsum
 date: '2020-11-21'
 template: project
